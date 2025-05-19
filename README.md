@@ -1,4 +1,3 @@
-
 # Tax Loss Harvesting - KoinX Assignment
 
 ![KoinX Logo](/lovable-uploads/07b9b99a-8cf0-4ed5-a6ce-441d1cbcef49.png)
@@ -21,22 +20,26 @@ This project implements a Tax Loss Harvesting tool that allows users to simulate
 ## Setup Instructions
 
 ### Prerequisites
+
 - Node.js (v16 or newer)
 - npm or yarn package manager
 
 ### Installation
 
 1. Clone the repository:
+
    ```sh
    git clone https://github.com/Ankit389/assignment--koinx.git
    ```
 
 2. Navigate to the project directory:
+
    ```sh
    cd assignment--koinx
    ```
 
 3. Install dependencies:
+
    ```sh
    npm install
    # or
@@ -44,6 +47,7 @@ This project implements a Tax Loss Harvesting tool that allows users to simulate
    ```
 
 4. Start the development server:
+
    ```sh
    npm run dev
    # or
@@ -89,10 +93,10 @@ src/
 4. The "After Harvesting" card will update in real-time to show your new tax situation.
 
 ## Screenshots
+
 ## Screenshots
 
 ![Application Screenshot](/images/harvesting-screenshot.jpg)
-
 
 ## Assumptions
 
