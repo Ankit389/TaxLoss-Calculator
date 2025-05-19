@@ -89,8 +89,10 @@ src/
 4. The "After Harvesting" card will update in real-time to show your new tax situation.
 
 ## Screenshots
+## Screenshots
 
-![Application Screenshot](https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&w=800&h=500)
+![Application Screenshot](/images/harvesting-screenshot.jpg)
+
 
 ## Assumptions
 
