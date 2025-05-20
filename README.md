@@ -1,6 +1,8 @@
 # Tax Loss Harvesting - KoinX Assignment
 
-![Application Screenshot](/images/harvesting-screenshot.jpg)
+## Screenshots
+
+![Application Screenshot](images/harvesting-screenshot.jpg)
 ## Project Overview
 
 
