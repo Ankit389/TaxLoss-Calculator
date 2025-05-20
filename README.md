@@ -1,8 +1,8 @@
 # Tax Loss Harvesting - KoinX Assignment
 
-![Application Screenshot](/images/harvesting-screenshot.jpg)
-## Project Overview
+![Application Screenshot](public/images/harvesting-screenshot.jpg)
 
+## Project Overview
 
 This project implements a Tax Loss Harvesting tool that allows users to simulate how selling certain assets would impact their capital gains tax liability. Users can select assets they're considering selling and instantly see the effect on their short-term and long-term capital gains.
 
@@ -95,8 +95,6 @@ src/
 ## Screenshots
 
 ## Screenshots
-
-
 
 ## Assumptions
 
